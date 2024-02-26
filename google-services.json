@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481682375832",
+    "firebase_url": "https://lumina-ai-7d702-default-rtdb.firebaseio.com",
+    "project_id": "lumina-ai-7d702",
+    "storage_bucket": "lumina-ai-7d702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481682375832:android:a29910bdb776a215b23ced",
+        "android_client_info": {
+          "package_name": "com.lumina.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481682375832-brpfc5u2t1a1b90fsihar1nvq4qj6svn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclXuOzzzZvrKY-EWrhT81wexLyxau7cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481682375832-brpfc5u2t1a1b90fsihar1nvq4qj6svn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
